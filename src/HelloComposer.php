@@ -1,6 +1,6 @@
 <?php
 
-namespace akat03\HelloComposer;
+namespace Akat03\HelloComposer;
 
 class HelloComposer
 {
