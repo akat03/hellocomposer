@@ -3,9 +3,7 @@
 HelloComposer
 
 
-
-
-**composer.json**
+add to **composer.json**
 
 ```
     "repositories": [
@@ -17,4 +15,13 @@ HelloComposer
     "require": {
         "akat03/hellocomposer" : "dev-master"
     }
+```
+
+
+# ● Install
+use composer command
+
+```
+composer update
+composer dump-autoload
 ```
