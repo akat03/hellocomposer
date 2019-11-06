@@ -4,7 +4,7 @@ namespace Akat03\HelloComposer;
 
 class HelloComposer
 {
-    public static function echo( $message='hello !' )
+    public static function show( $message='hello !' )
     {
     	echo $message;
     }
