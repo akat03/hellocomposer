@@ -2,7 +2,7 @@
     "name": "akat03/hellocomposer",
     "description": "hello-composer",
     "type": "library",
-    "minimum-stability": "stable"
+    "minimum-stability": "stable" ,
 	"require": {
 		"php": ">=7.0.0"
 	},
